@@ -1,5 +1,16 @@
 {
-    "webcredentials": {
-        "apps": [ "YB62VG57B4.com.breve.StripeSubscriptions" ]
-    }
+  "appLinks": {
+    "apps": [
+
+    ],
+    "details": [
+      {
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "YB62VG57B4.com.breve.StripeSubscriptions"
+    ]
+  }
 }
